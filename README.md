@@ -1,6 +1,9 @@
 # 💫 About Me:
 Hi, I’m Prem, a biomedical engineer and software developer working across backend systems, AI models and healthcare data workflows. I’ve built production features involving LLMs, EEG pipelines, medical simulations and semantic networks. I care about reliability, documentation and designing systems that align technology with real patient impact.
 
+# Work on IEC 62304 Software Development plan (mock) for potential EEG application
+
+[Find it here](https://github.com/Prem-Aravindan/BrainLinkCompanion/blob/main/docs/IEC62304_Software_Development_Plan.md)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prem_jpa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prem-aravindan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:premaravindanj@gmail.com) 
